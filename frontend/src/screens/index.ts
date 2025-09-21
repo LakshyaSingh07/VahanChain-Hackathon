@@ -1,0 +1,12 @@
+export { default as SplashScreen } from './SplashScreen';
+export { default as OnboardingScreen1 } from './OnboardingScreen1';
+export { default as OnboardingScreen2 } from './OnboardingScreen2';
+export { default as OnboardingScreen3 } from './OnboardingScreen3';
+export { default as PermissionScreen } from './PermissionScreen';
+export { default as WalletLoadingScreen } from './WalletLoadingScreen';
+export { default as WalletSuccessScreen } from './WalletSuccessScreen';
+export { default as DashboardScreen } from './DashboardScreen';
+export { default as DocumentsScreen } from './DocumentsScreen';
+export { default as SettingsScreen } from './SettingsScreen';
+export { default as DashboardContainer } from './DashboardContainer';
+export { default as MainScreen } from './MainScreen';
