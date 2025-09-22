@@ -80,7 +80,7 @@ The core of VahanChain is the `SafeDriverSBT.sol` smart contract.
 ## 7. Project Structure
 
 The repository is structured into two main parts:
-
+```
 VahanChain-Hackathon/
 ├── hardhat/                    # Smart Contract Development (Hardhat project)
 │   ├── contracts/              # Solidity smart contracts
@@ -97,6 +97,7 @@ VahanChain-Hackathon/
 │   └── constants/index.ts  # WalletConnect ID, Contract Address, ABI
 ├── assets/                 # App assets (icons, splash screen)
 └── package.json            # Frontend dependencies
+```
 
 ## 8. Setup and Installation
 
