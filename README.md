@@ -209,5 +209,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 ## 13. Contact
-- **Twitter/X:** [@versatile_amit](https://x.com/versatile_amit)  
-- **Email:** _[Optional — add yours]_  
+- **Twitter/X:** [@LakshyaSingh](https://x.com/Lakshya81810899)  
+- **Website:** [@LakshyaSingh](https://lakshyasingh.com)
